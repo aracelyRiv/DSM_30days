@@ -1,0 +1,32 @@
+<resources>
+    <!-- Días -->
+    <string name="day1">Día 1</string>
+    <string name="day2">Día 2</string>
+    <string name="day3">Día 3</string>
+    <string name="day4">Día 4</string>
+    <string name="day5">Día 5</string>
+    <string name="day6">Día 6</string>
+    <string name="day7">Día 7</string>
+    <string name="day8">Día 8</string>
+
+    <!-- Nombres de los lugares históricos -->
+    <string name="place1">Machu Picchu</string>
+    <string name="place2">Cuzco</string>
+    <string name="place3">Nazca Lines</string>
+    <string name="place4">Sacsayhuamán</string>
+    <string name="place5">Ollantaytambo</string>
+    <string name="place6">Choquequirao</string>
+    <string name="place7">Písac</string>
+    <string name="place8">Valle Sagrado</string>
+
+    <!-- Descripciones de los lugares históricos -->
+    <string name="description1">Una antigua ciudad inca situada en los Andes peruanos, famosa por sus ruinas impresionantes y su ubicación espectacular en la cima de una montaña.</string>
+    <string name="description2">Una ciudad histórica que fue la capital del Imperio Inca y es conocida por su rica arquitectura colonial y ruinas incas.</string>
+    <string name="description3">Una serie de geoglifos antiguos ubicados en el desierto de Nazca, famosos por sus diseños geométricos y figuras animales.</string>
+    <string name="description4">Un complejo arqueológico inca conocido por sus enormes muros de piedra y su impresionante fortaleza en la cima de una colina.</string>
+    <string name="description5">Una antigua fortaleza inca ubicada en el Valle Sagrado, famosa por su impresionante arquitectura y sus vistas panorámicas.</string>
+    <string name="description6">Un sitio arqueológico en las montañas de Cusco, conocido por sus impresionantes ruinas y su remota ubicación.</string>
+    <string name="description7">Un sitio arqueológico inca conocido por sus terrazas agrícolas y sus vistas panorámicas del Valle Sagrado.</string>
+    <string name="description8">Un hermoso valle en los Andes peruanos, conocido por sus paisajes espectaculares y sus antiguos sitios arqueológicos.</string>
+    <string name="app_name">HistoricPlace</string>
+</resources>
